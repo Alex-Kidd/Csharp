@@ -1,0 +1,9 @@
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\CheckBoxRadioButton\bin\Debug\CheckBoxRadioButton.exe.config
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\CheckBoxRadioButton\bin\Debug\CheckBoxRadioButton.exe
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\CheckBoxRadioButton\bin\Debug\CheckBoxRadioButton.pdb
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\CheckBoxRadioButton\obj\Debug\CheckBoxRadioButton.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\CheckBoxRadioButton\obj\Debug\CheckBoxRadioButton.Form1.resources
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\CheckBoxRadioButton\obj\Debug\CheckBoxRadioButton.Properties.Resources.resources
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\CheckBoxRadioButton\obj\Debug\CheckBoxRadioButton.csproj.GenerateResource.Cache
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\CheckBoxRadioButton\obj\Debug\CheckBoxRadioButton.exe
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\CheckBoxRadioButton\obj\Debug\CheckBoxRadioButton.pdb

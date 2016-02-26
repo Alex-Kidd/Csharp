@@ -1,0 +1,9 @@
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\synthese\bin\Debug\synthese.exe.config
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\synthese\obj\Debug\synthese.Form1.resources
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\synthese\obj\Debug\synthese.Properties.Resources.resources
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\synthese\obj\Debug\synthese.csproj.GenerateResource.Cache
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\synthese\bin\Debug\synthese.exe
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\synthese\bin\Debug\synthese.pdb
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\synthese\obj\Debug\synthese.exe
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\synthese\obj\Debug\synthese.pdb
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\synthese\obj\Debug\synthese.csprojResolveAssemblyReference.cache

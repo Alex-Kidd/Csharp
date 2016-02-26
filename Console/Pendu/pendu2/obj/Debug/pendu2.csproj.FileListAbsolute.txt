@@ -1,0 +1,12 @@
+C:\Users\stagiaire\Documents\CSharp\Pendu\pendu2\bin\Debug\pendu2.exe.config
+C:\Users\stagiaire\Documents\CSharp\Pendu\pendu2\bin\Debug\pendu2.exe
+C:\Users\stagiaire\Documents\CSharp\Pendu\pendu2\bin\Debug\pendu2.pdb
+C:\Users\stagiaire\Documents\CSharp\Pendu\pendu2\obj\Debug\pendu2.exe
+C:\Users\stagiaire\Documents\CSharp\Pendu\pendu2\obj\Debug\pendu2.pdb
+C:\Users\stagiaire\Documents\CSharp\Pendu\pendu2\obj\Debug\pendu2.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Csharp\pendu\pendu2\bin\Debug\pendu2.exe.config
+C:\Users\Alex\Documents\Csharp\pendu\pendu2\obj\Debug\pendu2.exe
+C:\Users\Alex\Documents\Csharp\pendu\pendu2\obj\Debug\pendu2.pdb
+C:\Users\Alex\Documents\Csharp\pendu\pendu2\bin\Debug\pendu2.exe
+C:\Users\Alex\Documents\Csharp\pendu\pendu2\bin\Debug\pendu2.pdb
+C:\Users\Alex\Documents\Csharp\pendu\pendu2\obj\Debug\pendu2.csprojResolveAssemblyReference.cache

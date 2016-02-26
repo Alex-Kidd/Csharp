@@ -1,0 +1,14 @@
+C:\Users\frc\Desktop\WinForm\Additionneur\bin\Debug\Additionneur.exe.config
+C:\Users\frc\Desktop\WinForm\Additionneur\bin\Debug\Additionneur.exe
+C:\Users\frc\Desktop\WinForm\Additionneur\bin\Debug\Additionneur.pdb
+C:\Users\frc\Desktop\WinForm\Additionneur\obj\Debug\Additionneur.Form1.resources
+C:\Users\frc\Desktop\WinForm\Additionneur\obj\Debug\Additionneur.Properties.Resources.resources
+C:\Users\frc\Desktop\WinForm\Additionneur\obj\Debug\Additionneur.csproj.GenerateResource.Cache
+C:\Users\frc\Desktop\WinForm\Additionneur\obj\Debug\Additionneur.exe
+C:\Users\frc\Desktop\WinForm\Additionneur\obj\Debug\Additionneur.pdb
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Additionneur\bin\Debug\Additionneur.exe.config
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Additionneur\obj\Debug\Additionneur.exe
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Additionneur\obj\Debug\Additionneur.pdb
+C:\Users\stagiaire\Desktop\Csharp\Windows_Form\Additionneur\bin\Debug\Additionneur.exe.config
+C:\Users\stagiaire\Desktop\Csharp\Windows_Form\Additionneur\obj\Debug\Additionneur.exe
+C:\Users\stagiaire\Desktop\Csharp\Windows_Form\Additionneur\obj\Debug\Additionneur.pdb

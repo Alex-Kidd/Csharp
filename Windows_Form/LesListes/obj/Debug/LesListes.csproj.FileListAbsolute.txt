@@ -1,0 +1,9 @@
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\LesListes\bin\Debug\LesListes.exe.config
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\LesListes\bin\Debug\LesListes.exe
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\LesListes\bin\Debug\LesListes.pdb
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\LesListes\obj\Debug\LesListes.csprojResolveAssemblyReference.cache
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\LesListes\obj\Debug\LesListes.Form1.resources
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\LesListes\obj\Debug\LesListes.Properties.Resources.resources
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\LesListes\obj\Debug\LesListes.csproj.GenerateResource.Cache
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\LesListes\obj\Debug\LesListes.exe
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\LesListes\obj\Debug\LesListes.pdb

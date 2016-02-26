@@ -1,0 +1,9 @@
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Défilement\bin\Debug\Défilement.exe.config
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Défilement\bin\Debug\Défilement.exe
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Défilement\bin\Debug\Défilement.pdb
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Défilement\obj\Debug\Défilement.Form1.resources
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Défilement\obj\Debug\Défilement.Properties.Resources.resources
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Défilement\obj\Debug\Défilement.csproj.GenerateResource.Cache
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Défilement\obj\Debug\Défilement.exe
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Défilement\obj\Debug\Défilement.pdb
+C:\Users\stagiaire\Documents\CSharpCorrection\WinForm\Défilement\obj\Debug\Défilement.csprojResolveAssemblyReference.cache
